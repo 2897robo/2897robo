@@ -1,4 +1,11 @@
-### Hi there 👋
+# 👋 Hi there. Nice to see you! 
+
+Welcome to my profile!
+I'm GiUk Kim, Back-end Developer from <img src="https://github.com/2897robo/2897robo/assets/31699375/ca75c7da-a856-4893-b00b-7781755b571a" width="20"/> <b>Gwangju, Republic of Korea</b>, currently living in <img src="https://github.com/2897robo/2897robo/assets/31699375/ca75c7da-a856-4893-b00b-7781755b571a" width="20"/> <b>Seoul, Republic of Korea</b>.
+
+<h3>Things I code with</h3>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <!--
 **2897robo/2897robo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
