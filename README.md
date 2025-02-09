@@ -45,10 +45,6 @@ I am passionate about building scalable, high-performance applications and conti
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2897robo" width="48%" alt="Baekjoon Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=2897robo&theme=radical" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2897robo&layout=compact&theme=radical" width="48%" alt="Most Used Languages" />
-</p>
 
 ---
 
