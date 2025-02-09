@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm GiUk Kim!
 
 Welcome to my GitHub profile!  
-I'm a **Back-end Developer** from 🇰🇷 **Gwangju, Republic of Korea**.
+I'm a **Back-end Developer** from 🇰🇷 **Gwangju, Republic of Korea**.  
 I aim to start as a backend developer and grow into a DevOps or cloud engineer.
 
 ---
