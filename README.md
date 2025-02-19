@@ -65,7 +65,7 @@ I aim to start as a backend developer and grow into a DevOps or cloud engineer.
 - 🌍 **Portfolio**: [Coming Soon](#)
 - 📖 **Blog**: [Coming Soon](#)
 - 📧 **Email**: `2897robo@gmail.com`
-- 💼 **LinkedIn**: [linkedin.com/in/gi-uk-kim](https://www.linkedin.com/in/gi-uk-kim/)
+- 💼 **LinkedIn**: [linkedin.com/in/giuk-kim](https://www.linkedin.com/in/giuk-kim/)
 
 ---
 
